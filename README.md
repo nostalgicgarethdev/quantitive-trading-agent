@@ -23,6 +23,9 @@ Powered by **Anthropic Claude Fable 5** (the public Mythos-class model).
 
 This is the official contract address for the project's community token.
 
+- [View on Solscan](https://solscan.io/token/AvSWbdTVPdSaLa7cYJ3sRTgvQHZEcW1HN8g6xuvsswrm)
+- [View on Birdeye](https://birdeye.so/token/AvSWbdTVPdSaLa7cYJ3sRTgvQHZEcW1HN8g6xuvsswrm)
+
 ## Installation
 
 ```bash
