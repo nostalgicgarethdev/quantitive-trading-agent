@@ -6,6 +6,8 @@
 
 **CA:** `AvSWbdTVPdSaLa7cYJ3sRTgvQHZEcW1HN8g6xuvsswrm`
 
+**🚀 Live Agent:** [swarms.world/agent/999098ec-41a9-4d82-9630-5e15553e3182](https://swarms.world/agent/999098ec-41a9-4d82-9630-5e15553e3182)
+
 An advanced AI agent (and multi-agent systems) for quantitative finance, trading, and algorithmic analysis, built with the [swarms](https://github.com/kyegomez/swarms) framework.
 
 **Officially aligned with the Swarms Claude Fable 5 documentation**:
@@ -29,6 +31,14 @@ This is the official contract address for the project's community token.
 
 - [View on Solscan](https://solscan.io/token/AvSWbdTVPdSaLa7cYJ3sRTgvQHZEcW1HN8g6xuvsswrm)
 - [View on Birdeye](https://birdeye.so/token/AvSWbdTVPdSaLa7cYJ3sRTgvQHZEcW1HN8g6xuvsswrm)
+
+## Live Agent
+
+Try the deployed **Quantitative-Trading-Agent** directly on the Swarms platform:
+
+**🔗 [https://swarms.world/agent/999098ec-41a9-4d82-9630-5e15553e3182](https://swarms.world/agent/999098ec-41a9-4d82-9630-5e15553e3182)**
+
+This is the exact agent built with the code in this repo, using Claude Fable 5 with the full system prompt and high reasoning settings.
 
 ## Installation
 
