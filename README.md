@@ -58,6 +58,9 @@ export ANTHROPIC_API_KEY="sk-ant-..."
 
 ## Quick Start (Single Agent)
 
+**Try it instantly (no install):**  
+[Launch on Swarms](https://swarms.world/agent/999098ec-41a9-4d82-9630-5e15553e3182)
+
 ```bash
 python main.py
 ```
