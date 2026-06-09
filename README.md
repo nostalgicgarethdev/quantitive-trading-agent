@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Quantitive Trading Agent Logo" width="420"/>
+  <img src="assets/quantitive-logo.png" alt="Quantitive Trading Agent Logo" width="420"/>
 </p>
 
 # quantitive-trading-agent
