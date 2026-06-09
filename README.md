@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Quantitive Trading Agent Logo" width="420"/>
+</p>
+
 # quantitive-trading-agent
 
 **CA:** `AvSWbdTVPdSaLa7cYJ3sRTgvQHZEcW1HN8g6xuvsswrm`

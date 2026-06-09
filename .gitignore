@@ -53,9 +53,14 @@ logs/
 .ipynb_checkpoints
 *.ipynb
 
-# Output
+# Output / generated images (but allow project assets)
 outputs/
 results/
 *.csv
-*.png
 *.pdf
+
+# Allow project logo and assets
+!assets/
+!assets/logo.png
+!assets/*.png
+!assets/*.svg
