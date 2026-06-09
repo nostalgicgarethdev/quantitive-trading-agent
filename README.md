@@ -255,3 +255,4 @@ This project is for research and educational purposes. It does not provide finan
 ## License
 
 MIT
+Official Swarms reference added
