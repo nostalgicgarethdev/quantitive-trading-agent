@@ -1,5 +1,7 @@
 # quantitive-trading-agent
 
+**CA:** `AvSWbdTVPdSaLa7cYJ3sRTgvQHZEcW1HN8g6xuvsswrm`
+
 An advanced AI agent (and multi-agent systems) for quantitative finance, trading, and algorithmic analysis, built with the [swarms](https://github.com/kyegomez/swarms) framework.
 
 **Officially aligned with the Swarms Claude Fable 5 documentation**:
@@ -14,6 +16,12 @@ Powered by **Anthropic Claude Fable 5** (the public Mythos-class model).
 - Follows all official limitations and best practices (no tools on Fable 5, temperature=None, etc.)
 - Includes the exact "Quantitative-Trading-Agent" system prompt featured in the official docs
 - Pattern for combining tool-calling models with Fable 5 reasoning
+
+## Token
+
+**CA:** `AvSWbdTVPdSaLa7cYJ3sRTgvQHZEcW1HN8g6xuvsswrm`
+
+This is the official contract address for the project's community token.
 
 ## Installation
 
