@@ -1,0 +1,7 @@
+swarms>=0.1.0
+anthropic>=0.30.0
+# Optional but recommended for real quantitative work:
+# yfinance
+# pandas
+# matplotlib
+# polygon-api-client
